@@ -1,8 +1,8 @@
-## Hi there 👋
+
 ## Hi 👋 I'm Anshika Gupta
 
 🎓 BTech Student  
-💻 Full Stack Developer | Python | Html | Css |Javascript| 
+💻 Full Stack Developer | Python | Html | Css |Javascript |  
 🌱 Currently learning MERN Stack  
 🚀 Passionate about building real-world projects  
 
@@ -16,7 +16,7 @@
 - Portfolio Website
 - Student Management System
 
-📫 Reach me at: anshikagupta1318@@gmail.com
+📫 Reach me at: anshikagupta1318@gmail.com
 
 🚀 Currently working on Full Stack Web Development (React, Node.js, MongoDB)
 
